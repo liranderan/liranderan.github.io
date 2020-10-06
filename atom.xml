@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liranderan.github.io</id>
     <title>Ran Li &apos;s Portfolio</title>
-    <updated>2020-10-05T23:47:25.410Z</updated>
+    <updated>2020-10-06T17:42:27.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liranderan.github.io"/>
     <link rel="self" href="https://liranderan.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://liranderan.github.io/images/avatar.png</logo>
     <icon>https://liranderan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ran Li &apos;s Portfolio</rights>
+    <entry>
+        <title type="html"><![CDATA[Design Style Guide]]></title>
+        <id>https://liranderan.github.io/post/Rrd_qjakI/</id>
+        <link href="https://liranderan.github.io/post/Rrd_qjakI/">
+        </link>
+        <updated>2020-10-06T02:39:57.000Z</updated>
+        <content type="html"><![CDATA[<p>Home renovation made simple!<br>
+I want to claim that we are not a traditional contractor company. We are a young startup that's trying to build a reputable brand that provides an all-inclusive and secure solut</p>
+<p>ion for our users.<br>
+我们不是传统的承包商公司。我们是一家年轻的初创装修公司，希望通过自身的努力团结所有华人师傅，并打造出一个正直有爱高效率的团队，为我们的客户提供一套全面且保障的装修方案。<br>
+01.Foundation<br>
+基础<br>
+Color 色彩<br>
+系统级色彩体系主要定义了产品设计中的基础色板、中性色板和数据可视化色板。产品级色彩体系则是在具体设计过程中，基于系统色彩进一步定义符合产品调性以及功能诉求的颜色。<br>
+Grey / 灰<br>
+We use B400 for primary actions and buttons, links, for indicating progress, and representing authentication. N800 is used primarily for body text and headings, and N0 is used for page backgrounds and anything that is white.<br>
+我们将B400用于主要操作和按钮、链接，用于指示进度和表示身份验证。N800主要用于正文和标题，N0用于页面背景和任何白色的东西。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://liranderan.github.io/post/hello-gridea/</id>
