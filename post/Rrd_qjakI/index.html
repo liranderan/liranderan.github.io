@@ -1,92 +1,115 @@
-
-<!DOCTYPE html>
 <html>
   <head>
-    
-<meta charset="utf-8" >
-
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Design Style Guide | Ran Li &#39;s Portfolio</title>
-<meta name="description" content="Freelance Designer">
-
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://liranderan.github.io/favicon.ico?v=1602009413832">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="shortcut icon" href="https://liranderan.github.io/favicon.ico?v=1602009457684">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://liranderan.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="Design Style Guide | Ran Li &#39;s Portfolio - Atom Feed" href="https://liranderan.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+    <meta name="description" content="Introduction 介绍
+Eanovation
 
+Home renovation made simple!
 
-
+I want to claim that we are not a traditional contractor compa..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
   </head>
   <body>
-    <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://liranderan.github.io">
-        <img class="avatar" src="https://liranderan.github.io/images/avatar.png?v=1602009413832" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://liranderan.github.io">
-        <h1 class="site-title">Ran Li &#39;s Portfolio</h1>
-      </a>
-    </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://liranderan.github.io">
+  <img class="avatar" src="https://liranderan.github.io/images/avatar.png?v=1602009457684" alt="">
+  </a>
+  <h1 class="site-title">
+    Ran Li &#39;s Portfolio
+  </h1>
+  <p class="site-description">
+    Freelance Designer
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+        <a href="https://github.com/liranderan" target="_blank">
+          <i class="ri-github-line"></i>
+        </a>
+      
+    
+      
+        <a href="https://twitter.com/betterliran" target="_blank">
+          <i class="ri-twitter-line"></i>
+        </a>
+      
+    
+      
+    
+      
+        <a href="https://www.zhihu.com/people/liranliran" target="_blank">
+          <i class="ri-zhihu-line"></i>
+        </a>
+      
+    
+      
+        <a href="https://www.facebook.com/liranderan/" target="_blank">
+          <i class="ri-facebook-line"></i>
+        </a>
+      
+    
   </div>
 </div>
 
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
-      
-        
-          <a href="/" class="menu purple-link">
-            首页
-          </a>
-        
-      
-        
-          <a href="/archives" class="menu purple-link">
-            归档
-          </a>
-        
-      
-        
-          <a href="/tags" class="menu purple-link">
-            标签
-          </a>
-        
-      
-        
-          <a href="/post/about" class="menu purple-link">
-            关于
-          </a>
-        
-      
-    </div>
-  </div>
-</transition>
-
-
-      <div class="content-container">
         <div class="post-detail">
-          
-          <h2 class="post-title">Design Style Guide</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2020-10-02</span>
+          <article class="post">
+            <h2 class="post-title">
+              Design Style Guide
+            </h2>
+            <div class="post-info">
+              <span>
+                2020-10-02
+              </span>
+              <span>
+                4 min read
+              </span>
+              
+            </div>
             
-          </div>
-          <div class="post-content">
-            <h1 id="introduction-介绍">Introduction 介绍</h1>
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <h1 id="introduction-介绍">Introduction 介绍</h1>
 <p>Eanovation<br>
 <a name="4C83f"></a></p>
 <h2 id="home-renovation-made-simple">Home renovation made simple!</h2>
@@ -151,57 +174,108 @@
 <p>描述文字<br />!<br>
 <img src="https://liranderan.github.io/post-images/1602006995179.png" alt="" loading="lazy"></p>
 
-          </div>
+              </div>
+              <div class="toc-container">
+                <ul class="markdownIt-TOC">
+<li><a href="#introduction-%E4%BB%8B%E7%BB%8D">Introduction 介绍</a>
+<ul>
+<li><a href="#home-renovation-made-simple">Home renovation made simple!</a></li>
+</ul>
+</li>
+<li><a href="#foundation-%E5%9F%BA%E7%A1%80">Foundation 基础</a></li>
+<li><a href="#color-%E8%89%B2%E5%BD%A9">Color 色彩</a><br>
+*<br>
+*<br>
+* <a href="#grey-%E7%81%B0">Grey / 灰</a><br>
+* <a href="#color-%E8%89%B2%E5%BD%A9-2">Color / 色彩</a></li>
+<li><a href="#typography">Typography</a><br>
+*<br>
+*<br>
+* <a href="#%E5%AD%97%E4%BD%93%E5%BA%94%E7%94%A8%E8%A7%84%E8%8C%83">字体应用规范</a><br>
+* <a href="#%E5%AD%97%E5%8F%B7%E6%A0%87%E5%87%86">字号标准</a></li>
+<li><a href="#layout-%E5%B8%83%E5%B1%80">Layout 布局</a><br>
+*<br>
+*<br>
+* <a href="#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A6%82%E8%BF%B0">浏览器概述</a><br>
+* <a href="#resolution-%E5%88%86%E8%BE%A8%E7%8E%87">Resolution 分辨率</a><br>
+* <a href="#grid%E6%A0%85%E6%A0%BC">Grid栅格</a></li>
+<li><a href="#layout-%E5%B8%83%E5%B1%80-2">Layout 布局</a><br>
+*<br>
+*<br>
+* <a href="#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A6%82%E8%BF%B0-2">浏览器概述</a><br>
+* <a href="#resolution-%E5%88%86%E8%BE%A8%E7%8E%87-2">Resolution 分辨率</a><br>
+* <a href="#grid%E6%A0%85%E6%A0%BC-2">Grid栅格</a></li>
+<li><a href="#button-%E6%8C%89%E9%92%AE">Button 按钮</a></li>
+<li><a href="#button-%E6%8C%89%E9%92%AE-2">Button 按钮</a></li>
+</ul>
+
+              </div>
+            </div>
+          </article>
         </div>
 
         
           <div class="next-post">
-            <a class="purple-link" href="https://liranderan.github.io/post/hello-gridea/">
+            <div class="next">下一篇</div>
+            <a href="https://liranderan.github.io/post/hello-gridea/">
               <h3 class="post-title">
-                下一篇：Hello Gridea
+                Hello Gridea
               </h3>
             </a>
           </div>
-          
-      </div>
+        
 
-      
+        
 
-      <div class="site-footer">
-  <div class="slogan">Freelance Designer</div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://liranderan.github.io/atom.xml" target="_blank">RSS</a>
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://liranderan.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
 </div>
 
-
+      </div>
     </div>
-    <script type="application/javascript">
 
-hljs.initHighlightingOnLoad()
+    <script>
+      hljs.initHighlightingOnLoad()
 
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
 
-</script>
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
 
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
 
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
 
-
+    </script>
   </body>
 </html>
