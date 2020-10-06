@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liranderan.github.io</id>
     <title>Ran Li &apos;s Portfolio</title>
-    <updated>2020-10-06T17:49:47.159Z</updated>
+    <updated>2020-10-06T17:52:23.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liranderan.github.io"/>
     <link rel="self" href="https://liranderan.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://liranderan.github.io/post/Rrd_qjakI/</id>
         <link href="https://liranderan.github.io/post/Rrd_qjakI/">
         </link>
-        <updated>2020-10-04T20:39:57.000Z</updated>
+        <updated>2020-10-04T05:39:57.000Z</updated>
         <content type="html"><![CDATA[<h1 id="introduction-介绍">Introduction 介绍</h1>
 <p>Eanovation<br>
 <a name="4C83f"></a></p>
@@ -31,8 +31,9 @@
 <p>系统级色彩体系主要定义了产品设计中的基础色板、中性色板和数据可视化色板。产品级色彩体系则是在具体设计过程中，基于系统色彩进一步定义符合产品调性以及功能诉求的颜色。<br /></p>
 <p><a name="mUcM8"></a></p>
 <h4 id="grey-灰">Grey / 灰</h4>
-<p>We use B400 for primary actions and buttons, links, for indicating progress, and representing authentication. N800 is used primarily for body text and headings, and N0 is used for page backgrounds and anything that is white.<br />我们将B400用于主要操作和按钮、链接，用于指示进度和表示身份验证。N800主要用于正文和标题，N0用于页面背景和任何白色的东西。<br />!</p>
-<p><a name="wVt89"></a></p>
+<p>We use B400 for primary actions and buttons, links, for indicating progress, and representing authentication. N800 is used primarily for body text and headings, and N0 is used for page backgrounds and anything that is white.<br />我们将B400用于主要操作和按钮、链接，用于指示进度和表示身份验证。N800主要用于正文和标题，N0用于页面背景和任何白色的东西。<br />!<br>
+<img src="https://liranderan.github.io/post-images/1602006727006.png" alt="" loading="lazy"><br>
+<a name="wVt89"></a></p>
 <h4 id="color-色彩-2">Color / 色彩</h4>
 <p><a name="KMmD6"></a></p>
 <h1 id="typography">Typography</h1>
