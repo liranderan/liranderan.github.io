@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liranderan.github.io</id>
     <title>Ran Li &apos;s Portfolio</title>
-    <updated>2020-11-09T23:11:47.249Z</updated>
+    <updated>2020-11-09T23:14:39.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liranderan.github.io"/>
     <link rel="self" href="https://liranderan.github.io/atom.xml"/>
@@ -87,8 +87,8 @@
         <id>https://liranderan.github.io/post/about/</id>
         <link href="https://liranderan.github.io/post/about/">
         </link>
-        <updated>2019-01-12T03:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p>Hello I'm LI RAN<br>
+        <updated>2019-01-10T03:09:48.000Z</updated>
+        <content type="html"><![CDATA[<p>#Hello I'm LI RAN<br>
 a Freelance Designer</p>
 <h1 id="contact-me">📮Contact me</h1>
 <p>Vancouver.BC<br>
@@ -96,13 +96,13 @@ a Freelance Designer</p>
 betterliran@gmail.com<br>
 WeChat liranderan</p>
 <h1 id="freelance">🌈Freelance</h1>
-<h2 id="sayhomee">Sayhomee</h2>
+<h3 id="sayhomee">Sayhomee</h3>
 <p>2020/3</p>
 <ul>
 <li>Web Design</li>
 <li>Mini program</li>
 </ul>
-<h2 id="eano">Eano</h2>
+<h3 id="eano">Eano</h3>
 <p>2019/6</p>
 <ul>
 <li>Product, Visual Identity Design</li>
@@ -116,20 +116,20 @@ WeChat liranderan</p>
 <li>Haohaozhu app Ver. 2.0</li>
 <li>Haohaozhu CRM Dashboard</li>
 </ul>
-<h2 id="breadtrip">Breadtrip</h2>
+<h3 id="breadtrip">Breadtrip</h3>
 <p>2014/9 - 2016/9   UED Manager</p>
 <ul>
 <li>City hunter Business Ver.</li>
 <li>Breadtrip Android Ver.  and Building Style Guide</li>
 </ul>
-<h2 id="mapbar">Mapbar</h2>
+<h3 id="mapbar">Mapbar</h3>
 <p>2012/11 - 2014/8 Senior UI Designer</p>
 <ul>
 <li>Mapbar Navigation Android Ver. (Product, Visual Identity Design)</li>
 <li>MapBar Navigation Off-line GPS Ver.</li>
 <li>OBD rearview mirror project (Full Stack Design)</li>
 </ul>
-<h2 id="qizhitianjie-advertising-co-ltd">Qizhitianjie Advertising Co., Ltd.</h2>
+<h3 id="qizhitianjie-advertising-co-ltd">Qizhitianjie Advertising Co., Ltd.</h3>
 <p>2011/5 - 2012/10  Graphic Designer</p>
 <ul>
 <li>Anhuihuawan seed Industry Co., Ltd.</li>
