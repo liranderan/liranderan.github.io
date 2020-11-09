@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liranderan.github.io</id>
     <title>Ran Li &apos;s Portfolio</title>
-    <updated>2020-11-09T22:44:29.472Z</updated>
+    <updated>2020-11-09T22:49:44.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liranderan.github.io"/>
     <link rel="self" href="https://liranderan.github.io/atom.xml"/>
@@ -87,31 +87,37 @@
         <id>https://liranderan.github.io/post/about/</id>
         <link href="https://liranderan.github.io/post/about/">
         </link>
-        <updated>2019-01-21T11:09:48.000Z</updated>
+        <updated>2019-01-16T19:09:48.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
 <p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
 </blockquote>
-<h3 id="freelance-designer">⛹ Freelance Designer</h3>
+<h1 id="freelance-designer">🌈Freelance Designer</h1>
 <h2 id="sayhomee">Sayhomee</h2>
-<p>2020/3<br>
-Web Design<br>
-Mini program</p>
+<p>2020/3</p>
+<ul>
+<li>Web Design</li>
+<li>Mini program</li>
+</ul>
 ]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
 </blockquote>
-<h3 id="freelance-designer">⛹ Freelance Designer</h3>
+<h1 id="freelance-designer">🌈Freelance Designer</h1>
 <h2 id="sayhomee">Sayhomee</h2>
-<p>2020/3<br>
-Web Design<br>
-Mini program</p>
+<p>2020/3</p>
+<ul>
+<li>Web Design</li>
+<li>Mini program</li>
+</ul>
 <!-- more -->
 <h2 id="eano">Eano</h2>
-<p>2019/6<br>
-Product, Visual Identity Design<br>
-Web Design</p>
+<p>2019/6</p>
+<ul>
+<li>Product, Visual Identity Design</li>
+<li>Web Design</li>
+</ul>
 <!-- more -->
-<h3 id="experience">📌Experience</h3>
+<h1 id="experience">📌Experience</h1>
 <p>Haohaozhu<br>
 2016/10 - 2018/9<br>
 Senior UI Designer<br>
@@ -138,13 +144,13 @@ Anhuihuawan seed Industry Co., Ltd.<br>
 Changbai Mountain International tourist Resort<br>
 Brand Identity and Visual Identity Design</p>
 <!-- more -->
-<h2 id="aboutme">👨‍💻 Aboutme</h2>
+<h4 id="aboutme">👨‍💻 Aboutme</h4>
 <p>9+ years of experience in web and mobile products designing.<br>
 Sensitive design trend insight.<br>
 Working hard and have an entrepreneurial spirit. A passion for craft and a bias for making.<br>
 Willing to communicate, good ability of cross-team cooperation, expound design intention accurately.<br>
 Mature and perfect knowledge system, high efficiency analysis of design requirements, high quality execution and implementation.</p>
-<h2 id="">📬</h2>
+<h4 id="">📬</h4>
 <p>Vancouver.BC<br>
 778 325 8525<br>
 betterliran@gmail.com<br>
