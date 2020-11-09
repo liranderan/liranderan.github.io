@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liranderan.github.io</id>
     <title>Ran Li &apos;s Portfolio</title>
-    <updated>2020-11-09T23:14:39.099Z</updated>
+    <updated>2020-11-09T23:15:50.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liranderan.github.io"/>
     <link rel="self" href="https://liranderan.github.io/atom.xml"/>
@@ -87,14 +87,20 @@
         <id>https://liranderan.github.io/post/about/</id>
         <link href="https://liranderan.github.io/post/about/">
         </link>
-        <updated>2019-01-10T03:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p>#Hello I'm LI RAN<br>
-a Freelance Designer</p>
+        <updated>2019-01-09T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="hello-im-li-ran">Hello I'm LI RAN</h1>
+<p>a Freelance Designer</p>
 <h1 id="contact-me">📮Contact me</h1>
 <p>Vancouver.BC<br>
 778 325 8525<br>
 betterliran@gmail.com<br>
 WeChat liranderan</p>
+<h1 id="aboutme">👨‍💻Aboutme</h1>
+<p>9+ years of experience in web and mobile products designing.<br>
+Sensitive design trend insight.<br>
+Working hard and have an entrepreneurial spirit. A passion for craft and a bias for making.<br>
+Willing to communicate, good ability of cross-team cooperation, expound design intention accurately.<br>
+Mature and perfect knowledge system, high efficiency analysis of design requirements, high quality execution and implementation.</p>
 <h1 id="freelance">🌈Freelance</h1>
 <h3 id="sayhomee">Sayhomee</h3>
 <p>2020/3</p>
@@ -136,12 +142,6 @@ WeChat liranderan</p>
 <li>Changbai Mountain International tourist Resort</li>
 <li>Brand Identity and Visual Identity Design</li>
 </ul>
-<h1 id="aboutme">👨‍💻Aboutme</h1>
-<p>9+ years of experience in web and mobile products designing.<br>
-Sensitive design trend insight.<br>
-Working hard and have an entrepreneurial spirit. A passion for craft and a bias for making.<br>
-Willing to communicate, good ability of cross-team cooperation, expound design intention accurately.<br>
-Mature and perfect knowledge system, high efficiency analysis of design requirements, high quality execution and implementation.</p>
 ]]></content>
     </entry>
     <entry>
