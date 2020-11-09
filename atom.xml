@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liranderan.github.io</id>
     <title>Ran Li &apos;s Portfolio</title>
-    <updated>2020-11-09T23:32:49.027Z</updated>
+    <updated>2020-11-09T23:36:40.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liranderan.github.io"/>
     <link rel="self" href="https://liranderan.github.io/atom.xml"/>
@@ -12,148 +12,23 @@
     <rights>All rights reserved 2020, Ran Li &apos;s Portfolio</rights>
     <entry>
         <title type="html"><![CDATA[Eano]]></title>
-        <id>https://liranderan.github.io/post/euaGPqQ9S/</id>
-        <link href="https://liranderan.github.io/post/euaGPqQ9S/">
+        <id>https://liranderan.github.io/euaGPqQ9S/</id>
+        <link href="https://liranderan.github.io/euaGPqQ9S/">
         </link>
-        <updated>2020-11-09T07:31:18.000Z</updated>
-        <content type="html"><![CDATA[<p>Home renovation made simple!<br>
-I want to claim that we are not a traditional contractor company. We are a young startup that's trying to build a reputable brand that provides an all-inclusive and secure solution for our users.<br>
-我们不是传统的承包商公司。我们是一家年轻的初创装修公司，希望通过自身的努力团结所有华人师傅，并打造出一个正直有爱高效率的团队，为我们的客户提供一套全面且保障的装修方案。</p>
-<figure data-type="image" tabindex="1"><img src="https://liranderan.github.io/post-images/1604964758881.png" alt="" loading="lazy"></figure>
-]]></content>
+        <updated>2020-11-08T15:31:18.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Design Style Guide]]></title>
-        <id>https://liranderan.github.io/post/Rrd_qjakI/</id>
-        <link href="https://liranderan.github.io/post/Rrd_qjakI/">
+        <id>https://liranderan.github.io/Rrd_qjakI/</id>
+        <link href="https://liranderan.github.io/Rrd_qjakI/">
         </link>
         <updated>2020-10-02T23:39:57.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="introduction-介绍">Introduction 介绍</h1>
-<p>Eanovation<br>
-<a name="4C83f"></a></p>
-<h2 id="home-renovation-made-simple">Home renovation made simple!</h2>
-<blockquote>
-<p>I want to claim that we are not a traditional contractor company. We are a young startup that's trying to build a reputable brand that provides an all-inclusive and secure solution for our users.<br>
-我们不是传统的承包商公司。我们是一家年轻的初创装修公司，希望通过自身的努力团结所有华人师傅，并打造出一个正直有爱高效率的团队，为我们的客户提供一套全面且保障的装修方案。</p>
-</blockquote>
-<p><br />项目计划涵盖了用户端、产品经理端、管理后台。<br />定义PC端、移动端H5及iOS app的设计规范，以及基本设计思考原则。<br />用于提高工作效率，和工作质量。<br /></p>
-<h1 id="foundation-基础">Foundation 基础</h1>
-<p><a name="3MtkT"></a></p>
-<h1 id="color-色彩">Color 色彩</h1>
-<p>系统级色彩体系主要定义了产品设计中的基础色板、中性色板和数据可视化色板。产品级色彩体系则是在具体设计过程中，基于系统色彩进一步定义符合产品调性以及功能诉求的颜色。<br /></p>
-<p><a name="mUcM8"></a></p>
-<h4 id="grey-灰">Grey / 灰</h4>
-<p>We use B400 for primary actions and buttons, links, for indicating progress, and representing authentication. N800 is used primarily for body text and headings, and N0 is used for page backgrounds and anything that is white.<br />我们将B400用于主要操作和按钮、链接，用于指示进度和表示身份验证。N800主要用于正文和标题，N0用于页面背景和任何白色的东西。<br />!<br>
-<img src="https://liranderan.github.io/post-images/1602006803751.png" alt="" loading="lazy"></p>
-<p><a name="wVt89"></a></p>
-<h4 id="color-色彩-2">Color / 色彩</h4>
-<figure data-type="image" tabindex="1"><img src="https://liranderan.github.io/post-images/1602006836482.png" alt="" loading="lazy"></figure>
-<p><a name="KMmD6"></a></p>
-<h1 id="typography">Typography</h1>
-<p><a name="CBnzR"></a></p>
-<h4 id="字体应用规范">字体应用规范</h4>
-<p>字体、字号、颜色、段落等细节。为了使用户在同一端的不同产品间有一致的体验，同时保持最佳的性能，推荐优先使用系统默认字体。<br />!<br>
-<img src="https://liranderan.github.io/post-images/1602006885346.jpg" alt="" loading="lazy"></p>
-<p><a name="3csdt"></a></p>
-<h4 id="字号标准">字号标准</h4>
-<figure data-type="image" tabindex="2"><img src="https://liranderan.github.io/post-images/1602006897083.png" alt="" loading="lazy"></figure>
-<p><a name="Jvobf"></a></p>
-<h1 id="layout-布局">Layout 布局</h1>
-<p><a name="mBjQP"></a></p>
-<h4 id="浏览器概述">浏览器概述</h4>
-<p>浏览器是影响页面显示的另一个要素。<br />不同内核（渲染引擎）的浏览器，对网页编写语法（HTML、JavaScript）的解释不同，从而导致最终渲染效果不同。<br />开发后的产品应尽可能多的在不同内核的浏览器中测试，以保证产品的最佳显示效果。<br>
-<a name="vhCAJ"></a></p>
-<h4 id="resolution-分辨率">Resolution 分辨率</h4>
-<p>用户通常希望在不同的设备上都能获得良好的产品体验，因此我们需要尽量保证在不同设备的显示效果。<br />对于web端产品，影响显示效果的主要因素有：显示器分辨率、浏览器。<br />常用显示器分辨率为：1920<em>1080、1366</em>768、1440<em>900、1024</em>768、1600*900<br>
-<a name="ptcqX"></a></p>
-<h4 id="grid栅格">Grid栅格</h4>
-<p>描述<br /><br>
-<br /><br>
-<img src="https://liranderan.github.io/post-images/1602006933260.png" alt="" loading="lazy"><br>
-<img src="https://liranderan.github.io/post-images/1602006947364.png" alt="" loading="lazy"></p>
-<p><a name="Jvobf"></a></p>
-<h1 id="layout-布局-2">Layout 布局</h1>
-<p><a name="mBjQP"></a></p>
-<h4 id="浏览器概述-2">浏览器概述</h4>
-<p>浏览器是影响页面显示的另一个要素。<br />不同内核（渲染引擎）的浏览器，对网页编写语法（HTML、JavaScript）的解释不同，从而导致最终渲染效果不同。<br />开发后的产品应尽可能多的在不同内核的浏览器中测试，以保证产品的最佳显示效果。<br>
-<a name="vhCAJ"></a></p>
-<h4 id="resolution-分辨率-2">Resolution 分辨率</h4>
-<p>用户通常希望在不同的设备上都能获得良好的产品体验，因此我们需要尽量保证在不同设备的显示效果。<br />对于web端产品，影响显示效果的主要因素有：显示器分辨率、浏览器。<br />常用显示器分辨率为：1920<em>1080、1366</em>768、1440<em>900、1024</em>768、1600*900<br>
-<a name="ptcqX"></a></p>
-<h4 id="grid栅格-2">Grid栅格</h4>
-<p>描述<br /><br>
-<br /></p>
-<p><a name="F1LX2"></a></p>
-<h1 id="button-按钮">Button 按钮</h1>
-<p>描述文字<br />!<br>
-<img src="https://liranderan.github.io/post-images/1602006971289.png" alt="" loading="lazy"><br>
-<img src="https://liranderan.github.io/post-images/1602006982006.png" alt="" loading="lazy"></p>
-<p><a name="F1LX2"></a></p>
-<h1 id="button-按钮-2">Button 按钮</h1>
-<p>描述文字<br />!<br>
-<img src="https://liranderan.github.io/post-images/1602006995179.png" alt="" loading="lazy"></p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CV]]></title>
-        <id>https://liranderan.github.io/post/about/</id>
-        <link href="https://liranderan.github.io/post/about/">
+        <id>https://liranderan.github.io/about/</id>
+        <link href="https://liranderan.github.io/about/">
         </link>
         <updated>2019-01-08T19:09:48.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="hello-im-li-ran">Hello I'm LI RAN</h1>
-<p>a Freelance Designer</p>
-<h1 id="contact-me">📮Contact me</h1>
-<p>Vancouver.BC<br>
-778 325 8525<br>
-betterliran@gmail.com<br>
-WeChat liranderan</p>
-<h1 id="aboutme">👨‍💻Aboutme</h1>
-<p>9+ years of experience in web and mobile products designing.<br>
-Sensitive design trend insight.<br>
-Working hard and have an entrepreneurial spirit. A passion for craft and a bias for making.<br>
-Willing to communicate, good ability of cross-team cooperation, expound design intention accurately.<br>
-Mature and perfect knowledge system, high efficiency analysis of design requirements, high quality execution and implementation.</p>
-<h1 id="freelance">🌈Freelance</h1>
-<h3 id="sayhomee">Sayhomee</h3>
-<p>2020/3</p>
-<ul>
-<li>Web Design</li>
-<li>Mini program</li>
-</ul>
-<h3 id="eano">Eano</h3>
-<p>2019/6</p>
-<ul>
-<li>Product, Visual Identity Design</li>
-<li>Web Design</li>
-</ul>
-<h1 id="experience">📌Experience</h1>
-<p>Haohaozhu<br>
-2016/10 - 2018/9</p>
-<ul>
-<li>Senior UI Designer</li>
-<li>Haohaozhu app Ver. 2.0</li>
-<li>Haohaozhu CRM Dashboard</li>
-</ul>
-<h3 id="breadtrip">Breadtrip</h3>
-<p>2014/9 - 2016/9   UED Manager</p>
-<ul>
-<li>City hunter Business Ver.</li>
-<li>Breadtrip Android Ver.  and Building Style Guide</li>
-</ul>
-<h3 id="mapbar">Mapbar</h3>
-<p>2012/11 - 2014/8 Senior UI Designer</p>
-<ul>
-<li>Mapbar Navigation Android Ver. (Product, Visual Identity Design)</li>
-<li>MapBar Navigation Off-line GPS Ver.</li>
-<li>OBD rearview mirror project (Full Stack Design)</li>
-</ul>
-<h3 id="qizhitianjie-advertising-co-ltd">Qizhitianjie Advertising Co., Ltd.</h3>
-<p>2011/5 - 2012/10  Graphic Designer</p>
-<ul>
-<li>Anhuihuawan seed Industry Co., Ltd.</li>
-<li>Changbai Mountain International tourist Resort</li>
-<li>Brand Identity and Visual Identity Design</li>
-</ul>
-]]></content>
     </entry>
 </feed>

@@ -1525,3 +1525,11 @@ a.purple-link {
         border: 1px solid #495057;
       }
     
+      .main {
+        max-width: 1128;
+      }
+    
+      body {
+        font-size: 14px;
+      }
+    
