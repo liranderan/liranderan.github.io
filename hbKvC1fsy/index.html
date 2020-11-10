@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<meta charset="utf-8" >
+
+<title>SAYHOMEE | Ran Li &#39;s Portfolio</title>
+<meta name="description" content="Freelance Designer">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://liranderan.github.io/favicon.ico?v=1604969990451">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://liranderan.github.io/styles/main.css">
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://liranderan.github.io">
+        <img class="avatar" src="https://liranderan.github.io/images/avatar.png?v=1604969990451" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://liranderan.github.io">
+        <h1 class="site-title">Ran Li &#39;s Portfolio</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">SAYHOMEE</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2020-11-09</span>
+            
+          </div>
+          <div class="post-content">
+            <h1 id="find-your-home-renovation-pros">Find Your Home Renovation Pros</h1>
+<figure data-type="image" tabindex="1"><img src="https://liranderan.github.io/post-images/1604969907029.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://liranderan.github.io/post-images/1604969915616.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://liranderan.github.io/post-images/1604969925269.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://liranderan.github.io/post-images/1604969933321.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://liranderan.github.io/post-images/1604969945259.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://liranderan.github.io/post-images/1604969953961.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://liranderan.github.io/post-images/1604969961846.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://liranderan.github.io/post-images/1604969981036.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://liranderan.github.io/post-images/1604969987537.png" alt="" loading="lazy"></figure>
+
+          </div>
+        </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://liranderan.github.io/eano/">
+              <h3 class="post-title">
+                下一篇：Eano
+              </h3>
+            </a>
+          </div>
+          
+      </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan">Freelance Designer</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://liranderan.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+  </body>
+</html>
